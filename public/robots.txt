@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tones-c057e2df.zappy5.app/sitemap.xml
